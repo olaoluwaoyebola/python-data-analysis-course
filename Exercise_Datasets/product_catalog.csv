@@ -1,0 +1,7 @@
+product_id,product_name,category,subcategory,base_price,cost,supplier_id
+P101,Basic T-Shirt,Clothing,T-Shirts,9.99,4.50,S001
+P102,Denim Jeans,Clothing,Pants,24.99,12.75,S002
+P103,Coffee Mug,Home,Kitchen,15.50,6.25,S003
+P104,Wireless Earbuds,Electronics,Audio,49.99,28.50,S004
+P105,Yoga Mat,Sports,Fitness,29.99,14.25,S005
+P106,Notebook,Office,Stationery,12.50,5.75,S006
