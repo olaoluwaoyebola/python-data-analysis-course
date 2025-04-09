@@ -1,0 +1,6 @@
+product_id,product_name,category,price,weight_g
+PROD001,Smartphone X,electronics,699.99,200
+PROD002,Cotton T-shirt,clothing,19.99,150
+PROD003,Coffee Maker,home_appliances,89.50,2500
+PROD004,Novel Book,books,12.99,350
+PROD005,Wireless Headphones,electronics,149.99,180

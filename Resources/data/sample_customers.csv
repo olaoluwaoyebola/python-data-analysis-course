@@ -1,0 +1,6 @@
+customer_id,name,email,city,state
+CUST001,John Smith,john@example.com,New York,NY
+CUST002,Maria Garcia,maria@example.com,Los Angeles,CA
+CUST003,James Johnson,james@example.com,Chicago,IL
+CUST004,Patricia Martinez,patricia@example.com,Los Angeles,CA
+CUST005,Robert Brown,robert@example.com,New York,NY
