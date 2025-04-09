@@ -25,7 +25,7 @@ The repository is organized by month and week, following our course curriculum:
   - **Resources/**: Project-specific resources
   - **Weekly_Structure/**: Week-by-week project guidance
 
-- **Project_Categories/**: Detailed information on project options
+- **Project_Categories/**: Detailed information on project options and requirements
 
 - **Resources/**: Shared materials for the entire course
   - **data/**: Sample datasets
@@ -73,6 +73,7 @@ Take some time to explore these key documents:
 - `course_overview.md`: Course goals, structure, and assessment
 - `Syllabus.md`: Detailed weekly topics
 - `course_calendar.md`: Schedule with all important dates
+- `Project_Categories/README.md`: Project options and requirements
 - `Resources/learning_pathway.md`: Learning progression guide
 - `Resources/sql_to_pandas.md`: SQL to Python translation guide
 
