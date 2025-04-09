@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+1001,Laptop Pro,Electronics,1299.99,45
+1002,Wireless Mouse,Accessories,24.99,150
+1003,Bluetooth Headphones,Audio,89.99,78
+1004,USB-C Cable,Accessories,12.99,200
+1005,27-inch Monitor,Electronics,249.99,30
+1006,Wireless Keyboard,Accessories,49.99,85
+1007,External SSD 1TB,Storage,159.99,60
+1008,Webcam HD,Electronics,69.99,25
+1009,Smart Speaker,Audio,79.99,50
+1010,Laptop Sleeve,Accessories,19.99,100
