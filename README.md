@@ -11,26 +11,31 @@ This 5-month course teaches Python for data analysis using the Olist Brazilian E
 
 ```
 Python for Data Analysis/
-├── Month 1: Python Foundations and Data Manipulation
+├── Month_1: Python Foundations and Data Manipulation
 │   ├── Week_1: Introduction and Environment Setup
 │   │   ├── Lecture/
 │   │   ├── Practice/
-│   │   └── Assignments/
+│   │   ├── Assignments/
+│   │   └── Data/
 │   ├── Week_2: Python Libraries for Data Analysis
 │   ├── Week_3: Data Manipulation with Pandas
 │   └── Week_4: Data Transformation
-├── Month 2: Data Analysis, Visualization, and SQL Integration
+├── Month_2: Data Analysis, Visualization, and SQL Integration
 │   ├── Week_5: Data Visualization Fundamentals
 │   ├── Week_6: Advanced Visualization and SQL Integration
 │   ├── Week_7: Exploratory Data Analysis
 │   └── Week_8: Statistical Analysis in Python
-├── Month 3: Advanced Topics and Project Preparation
+├── Month_3: Advanced Topics and Project Preparation
 │   ├── Week_9: Machine Learning Fundamentals
 │   ├── Week_10: Clustering and Dimensionality Reduction
 │   ├── Week_11: Advanced E-commerce Analytics
 │   └── Week_12: Project Preparation
-├── Months 4-5: Capstone Project
-│   └── Project/
+├── Months_4-5: Capstone Project
+│   ├── Workshops/
+│   ├── Project_Templates/
+│   ├── Resources/
+│   └── Weekly_Structure/
+├── Project_Categories/
 └── Resources/
     ├── data/
     ├── templates/
@@ -49,6 +54,7 @@ Python for Data Analysis/
 - **Lecture**: Instructor-led notebooks with explanations and examples
 - **Practice**: Guided exercises for in-class work
 - **Assignments**: Starter code for weekly assignments (Minor/Major)
+- **Data**: Datasets specific to each week's content
 
 ## Using This Repository
 
