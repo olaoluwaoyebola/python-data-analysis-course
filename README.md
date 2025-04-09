@@ -47,7 +47,7 @@ Python for Data Analysis/
 - [Course Overview](course_overview.md): Course goals, structure, and assessment
 - [Syllabus](Syllabus.md): Detailed weekly topics and content
 - [Course Calendar](course_calendar.md): Schedule with all important dates
-- [Project Requirements](Project/project_requirements.md): Capstone project information
+- [Project Requirements](Project_Categories/README.md): Capstone project information
 - [Getting Started](getting_started.md): Setup guide for students
 
 ## Weekly Structure
