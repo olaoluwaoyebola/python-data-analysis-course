@@ -10,22 +10,28 @@ All course materials are available in this GitHub repository. Here's how to navi
 
 ### Repository Structure
 
-- **Week_X folders**: Contains materials for each week of the course
-  - **Lecture**: Instructor-led notebooks
-  - **Practice**: Guided exercises
-  - **Assignments**: Starter code for assignments
+The repository is organized by month and week, following our course curriculum:
 
-- **Resources**: Supporting materials
-  - **data**: Sample datasets
-  - **templates**: Notebook templates
-  - **guides**: Setup and reference guides
-  - **references**: Cheat sheets and documentation
+- **Month_1 to Month_3**: Course content for the first three months
+  - **Week_1 to Week_12**: Weekly folders containing:
+    - **Lecture/**: Instructor-led notebooks
+    - **Practice/**: Guided exercises
+    - **Assignments/**: Starter code for assignments
+    - **Data/**: Datasets for that week's work
 
-- **Data**: Folder for storing the Olist dataset files
+- **Months_4-5**: Capstone project materials
+  - **Workshops/**: Technical workshop materials
+  - **Project_Templates/**: Templates for project deliverables
+  - **Resources/**: Project-specific resources
+  - **Weekly_Structure/**: Week-by-week project guidance
 
-- **Project**: Capstone project materials and guidelines
+- **Project_Categories/**: Detailed information on project options
 
-- **Utilities**: Helper scripts and functions
+- **Resources/**: Shared materials for the entire course
+  - **data/**: Sample datasets
+  - **templates/**: Notebook templates
+  - **guides/**: Setup and reference guides
+  - **references/**: Cheat sheets and documentation
 
 ## Before the First Class
 
@@ -46,7 +52,7 @@ You have two options for accessing course materials:
 2. Click File > Open notebook
 3. Select the GitHub tab
 4. Enter the repository URL: `https://github.com/autom8or-com/python-data-analysis-course`
-5. Browse and open the desired notebook
+5. Navigate to `Month_1/Week_1/Lecture` to find the first week's notebooks
 
 #### Option B: Create a Copy in Google Drive
 
@@ -79,9 +85,9 @@ For our first class on April 9th, please:
    - Aggregations (GROUP BY, COUNT, SUM, AVG)
    - Joins (INNER JOIN, LEFT JOIN)
 
-2. Browse through these introductory notebooks:
+2. Browse through these introductory materials:
    - `Resources/templates/Colab_Introduction.ipynb`
-   - `Week_1/Lecture/01_Python_Basics.ipynb`
+   - `Month_1/Week_1/Lecture/`: First week's lecture notebooks
 
 3. Prepare any questions you have about the course
 
