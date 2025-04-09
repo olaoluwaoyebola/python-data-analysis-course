@@ -1,0 +1,5 @@
+Widget A - Basic household item - $10.99
+Widget B - Premium household item - $15.50
+Widget C - Economy household item - $5.25
+Widget D - Luxury household item - $29.99
+Widget E - Special edition item - $49.99
