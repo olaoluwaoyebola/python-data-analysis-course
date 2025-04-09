@@ -1,13 +1,22 @@
 # Python for Data Analysis
 
 ## Course Overview
+This 5-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 2-month capstone project.
 
-Welcome to the Python for Data Analysis course! This comprehensive 5-month program is designed to transform students with intermediate SQL knowledge into proficient Python data analysts. Using the rich Olist Brazilian E-commerce dataset, you'll learn how to manipulate, analyze, and visualize data through hands-on lectures and assignments, culminating in a 2-month capstone project.
+**Prerequisites:** Intermediate SQL knowledge
+
+## Course Structure
+- **Duration:** 5 months (3 months instruction + 2 months project)
+- **Schedule:** Wednesdays and Thursdays, 2 hours each day
+- **Start Date:** April 9th, 2025
+- **Platform:** Google Colab
+- **Assignments:**
+  - Minor assignments (Wednesdays)
+  - Major group assignments (Thursdays)
 
 ## Course Goals
 
 By the end of this course, you will be able to:
-
 1. Write efficient Python code for data manipulation and analysis
 2. Translate SQL knowledge to equivalent Python operations
 3. Create insightful static and interactive data visualizations
@@ -17,66 +26,69 @@ By the end of this course, you will be able to:
 7. Use Google Colab effectively for collaborative data science work
 8. Apply data analysis techniques to solve real-world e-commerce problems
 
-## Course Structure
+## Course Content
 
-### Duration and Schedule
-- **Duration:** 5 months (3 months instruction + 2 months project)
-- **Schedule:** Wednesdays and Thursdays, 2 hours each day
-- **Start Date:** April 9th, 2025
-- **End Date:** August 28th, 2025
+### Month 1: Python Foundations and Data Manipulation
 
-### Platform
-- **Primary Platform:** Google Colab
-- **Course Repository:** [GitHub Repository](https://github.com/autom8or-com/python-data-analysis-course)
+#### Week 1: Introduction and Environment Setup
+- **Wednesday:** Introduction to Python and Google Colab
+- **Thursday:** Data Structures and Control Flow
 
-### Content Organization
+#### Week 2: Python Libraries for Data Analysis
+- **Wednesday:** NumPy Fundamentals 
+- **Thursday:** Pandas Fundamentals I
 
-**Month 1: Python Foundations and Data Manipulation**
-- Week 1: Introduction and Environment Setup
-- Week 2: Python Libraries for Data Analysis
-- Week 3: Data Manipulation with Pandas
-- Week 4: Data Transformation
+#### Week 3: Data Manipulation with Pandas
+- **Wednesday:** Pandas Fundamentals II
+- **Thursday:** Advanced Pandas Operations
 
-**Month 2: Data Analysis, Visualization, and SQL Integration**
-- Week 5: Data Visualization Fundamentals
-- Week 6: Advanced Visualization and SQL Integration
-- Week 7: Exploratory Data Analysis
-- Week 8: Statistical Analysis in Python
+#### Week 4: Data Transformation
+- **Wednesday:** Data Reshaping
+- **Thursday:** Introduction to the Olist Dataset
 
-**Month 3: Advanced Topics and Project Preparation**
-- Week 9: Machine Learning Fundamentals
-- Week 10: Clustering and Dimensionality Reduction
-- Week 11: Advanced E-commerce Analytics
-- Week 12: Project Preparation
+### Month 2: Data Analysis, Visualization, and SQL Integration
 
-**Months 4-5: Capstone Project**
-- Weeks 13-20: Project Development and Delivery
+#### Week 5: Data Visualization Fundamentals
+- **Wednesday:** Matplotlib Basics
+- **Thursday:** Advanced Matplotlib and Seaborn
 
-## Learning Approach
+#### Week 6: Advanced Visualization and SQL Integration
+- **Wednesday:** Interactive Visualizations
+- **Thursday:** SQL and Python Integration
 
-### Weekly Structure
-- **Wednesday Sessions:** Lecture and individual exercises
-  - Focus on new concepts and techniques
-  - Individual minor assignments due the following Tuesday
+#### Week 7: Exploratory Data Analysis
+- **Wednesday:** EDA Techniques
+- **Thursday:** Advanced EDA with Olist
 
-- **Thursday Sessions:** Group work and application
-  - Focus on applying concepts to real-world problems
-  - Group major assignments due the following Wednesday
+#### Week 8: Statistical Analysis in Python
+- **Wednesday:** Statistical Testing
+- **Thursday:** Regression Analysis
 
-### Capstone Project
-The final two months are dedicated to a comprehensive capstone project where you'll analyze the Olist dataset in depth. Working in teams, you'll design and implement a complete data analysis solution addressing real business challenges.
+### Month 3: Advanced Topics and Project Preparation
 
-## Prerequisites
+#### Week 9: Machine Learning Fundamentals
+- **Wednesday:** Introduction to scikit-learn
+- **Thursday:** Classification Models
 
-This course assumes you have:
-- Intermediate SQL knowledge
-- Basic programming concepts
-- Familiarity with data analysis concepts
+#### Week 10: Clustering and Dimensionality Reduction
+- **Wednesday:** Unsupervised Learning
+- **Thursday:** Dimensionality Reduction
 
-No prior Python experience is required.
+#### Week 11: Advanced E-commerce Analytics
+- **Wednesday:** Customer Lifetime Value
+- **Thursday:** Marketing Funnel Analysis
+
+#### Week 12: Project Preparation
+- **Wednesday:** Project Planning
+- **Thursday:** Project Design Review
+
+### Months 4-5: Capstone Project (Jul 2 - Aug 28, 2025)
+
+#### Week 13-20: Project Development and Delivery
+- **Wednesdays:** Technical workshops and project guidance sessions
+- **Thursdays:** Team working sessions with instructor support
 
 ## Assessment Structure
-
 - **Minor Assignments (30%):** Weekly individual assignments
 - **Major Group Assignments (30%):** Weekly group tasks
 - **Final Project (40%):**
@@ -86,21 +98,38 @@ No prior Python experience is required.
   - Presentation (10%)
 
 ## Resources
+- **Required:**
+  - Python for Data Analysis by Wes McKinney
+  - Olist Brazilian E-commerce Dataset Documentation
+  - Google Colab Tutorials
 
-### Primary Dataset
-The [Olist Brazilian E-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) contains approximately 100,000 orders made at Olist Store from 2016 to 2018. It includes data on orders, products, customers, and sellers, providing a comprehensive view of an e-commerce operation.
+- **Recommended:**
+  - Hands-On Machine Learning with Scikit-Learn by Aurélien Géron
+  - Storytelling with Data by Cole Nussbaumer Knaflic
+  - SQL to Python translation references
 
-### Supporting Materials
-- Course repository with lecture notebooks and templates
-- Sample code and exercises
-- Reference materials and cheat sheets
+## Project Options
+1. **Customer Satisfaction Analysis**
+   - Predict review scores based on order attributes
+   - Identify factors contributing to negative reviews
+   - Recommend operational improvements
 
-## Communication and Support
+2. **Seller Performance Optimization**
+   - Analyze seller metrics and performance
+   - Identify characteristics of top-performing sellers
+   - Create a seller scoring system
 
-- Office hours: Tuesdays (2-4 PM) and Fridays (10 AM-12 PM)
-- Discussion forum for questions and collaboration
-- Email support for urgent issues
+3. **Supply Chain and Logistics Analysis**
+   - Analyze delivery performance across regions
+   - Predict delivery delays
+   - Recommend logistics improvements
 
----
+4. **Marketing Channel Effectiveness**
+   - Analyze which marketing channels produce the best sellers
+   - Evaluate conversion rates through the funnel
+   - Recommend optimal marketing investment
 
-We're excited to have you join us on this journey to mastering Python for data analysis! This course emphasizes hands-on learning and practical application, ensuring you develop the skills needed for real-world data analysis challenges.
+5. **Product Category Performance**
+   - Analyze sales trends across product categories
+   - Identify seasonal patterns
+   - Recommend inventory optimization strategies
