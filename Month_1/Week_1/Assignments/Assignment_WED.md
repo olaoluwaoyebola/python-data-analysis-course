@@ -112,7 +112,7 @@ Using the provided CSV datasets, translate the following SQL queries to Python c
 1. Make sure your notebook runs without errors
 2. Include descriptive markdown cells explaining your approach for each part
 3. Comment your code appropriately
-4. Name your notebook as: `Week1_Minor_Assignment_YourName.ipynb`
+4. Name your notebook as: `Week1_Minor_Assignment_<YourGroupName>.ipynb`
 5. Submit your notebook via the course portal
 
 ## Grading Criteria
