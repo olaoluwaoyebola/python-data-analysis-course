@@ -1,0 +1,21 @@
+order_id,customer_id,order_date,product_id,product_name,product_category,quantity,price,payment_method,shipping_country,shipping_region,shipping_method,shipping_days,customer_gender,customer_age,customer_email_domain
+ORD-001,CUST-1001,2024-01-15,PROD-101,Premium Laptop,Electronics,1,1299.99,Credit Card,USA,California,Express,2,Male,32,gmail.com
+ORD-002,CUST-1002,2024-01-16,PROD-205,Wireless Headphones,Electronics,2,149.99,PayPal,Canada,Ontario,Standard,5,Female,45,yahoo.com
+ORD-003,CUST-1003,2024-01-16,PROD-310,Fitness Tracker,Wearables,1,89.95,Credit Card,USA,New York,Express,3,Male,28,outlook.com
+ORD-004,CUST-1004,2024-01-17,PROD-422,Smart Watch,Wearables,1,249.99,Debit Card,USA,Texas,Standard,4,Female,39,gmail.com
+ORD-005,CUST-1001,2024-01-18,PROD-533,Bluetooth Speaker,Electronics,2,79.99,Credit Card,USA,California,Express,2,Male,32,gmail.com
+ORD-006,CUST-1005,2024-01-18,PROD-644,Gaming Keyboard,Electronics,1,129.99,PayPal,UK,London,International,8,Male,25,hotmail.com
+ORD-007,CUST-1006,2024-01-19,PROD-755,Ergonomic Mouse,Electronics,1,59.99,Credit Card,USA,Florida,Standard,3,Female,41,gmail.com
+ORD-008,CUST-1007,2024-01-20,PROD-866,Noise Cancelling Headphones,Electronics,1,299.99,Credit Card,Canada,British Columbia,Standard,4,Female,36,yahoo.com
+ORD-009,CUST-1008,2024-01-21,PROD-977,Portable SSD,Electronics,1,189.99,Debit Card,USA,Washington,Express,2,Male,52,gmail.com
+ORD-010,CUST-1009,2024-01-21,PROD-101,Premium Laptop,Electronics,1,1299.99,PayPal,USA,New York,Express,3,Female,29,outlook.com
+ORD-011,CUST-1010,2024-01-22,PROD-205,Wireless Headphones,Electronics,1,149.99,Credit Card,Mexico,Mexico City,International,7,Male,44,gmail.com
+ORD-012,CUST-1003,2024-01-22,PROD-088,Smartphone,Electronics,1,899.99,Credit Card,USA,New York,Express,2,Male,28,outlook.com
+ORD-013,CUST-1011,2024-01-23,PROD-199,Tablet,Electronics,1,499.99,PayPal,Canada,Quebec,Standard,5,Female,33,gmail.com
+ORD-014,CUST-1012,2024-01-24,PROD-310,Fitness Tracker,Wearables,2,89.95,Debit Card,USA,Illinois,Standard,4,Male,47,yahoo.com
+ORD-015,CUST-1013,2024-01-25,PROD-422,Smart Watch,Wearables,1,249.99,Credit Card,USA,California,Express,2,Female,31,gmail.com
+ORD-016,CUST-1005,2024-01-26,PROD-533,Bluetooth Speaker,Electronics,1,79.99,PayPal,UK,London,International,9,Male,25,hotmail.com
+ORD-017,CUST-1014,2024-01-27,PROD-644,Gaming Keyboard,Electronics,1,129.99,Credit Card,USA,Colorado,Standard,3,Male,22,gmail.com
+ORD-018,CUST-1015,2024-01-28,PROD-755,Ergonomic Mouse,Electronics,2,59.99,Debit Card,Canada,Alberta,Standard,4,Female,38,yahoo.com
+ORD-019,CUST-1016,2024-01-29,PROD-866,Noise Cancelling Headphones,Electronics,1,299.99,Credit Card,USA,Arizona,Express,2,Male,42,gmail.com
+ORD-020,CUST-1001,2024-01-30,PROD-977,Portable SSD,Electronics,1,189.99,PayPal,USA,California,Standard,3,Male,32,gmail.com
