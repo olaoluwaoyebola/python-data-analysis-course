@@ -1,0 +1,58 @@
+CustomerID,Gender,Age,Income,Occupation,Education,Region,MaritalStatus,PurchaseDate,ProductID,ProductName,Category,Subcategory,Price,Quantity,PaymentMethod
+1001,Male,34,72000,Engineer,Bachelor,East,Married,2024-03-05,P001,Laptop HP Elite,Electronics,Computers,1200.5,1,Credit Card
+1001,Male,34,72000,Engineer,Bachelor,East,Married,2024-02-15,P045,External Hard Drive,Electronics,Accessories,89.99,2,Credit Card
+1002,Female,28,65000,Teacher,Master,West,Single,2024-03-10,P012,Yoga Mat,Sports,Fitness,35.5,1,PayPal
+1003,Female,45,95000,Doctor,PhD,Central,Married,2024-03-07,P023,Coffee Maker,Home,Kitchen,149.99,,Debit Card
+1003,Female,45,95000,Doctor,PhD,Central,Married,2024-03-15,P056,Professional Blender,Home,Kitchen,299.95,1,Credit Card
+1003,Female,45,95000,Doctor,PhD,Central,Married,2024-01-22,P078,Smart Watch,Electronics,Wearables,249.99,1,Debit Card
+1004,Male,52,120000,Lawyer,Master,East,Divorced,2024-03-12,P034,Business Suit,Clothing,Formal,599.99,1,Credit Card
+1005,Female,21,35000,Student,High School,West,Single,2024-02-28,P045,External Hard Drive,Electronics,Accessories,89.99,1,PayPal
+1005,Female,21,35000,Student,High School,West,Single,2024-03-14,P098,Wireless Earbuds,Electronics,Audio,129.95,1,PayPal
+1006,Male,39,85000,Manager,Bachelor,Central,Married,2024-03-02,P056,Professional Blender,Home,Kitchen,299.95,,Credit Card
+1007,Female,31,67000,Analyst,Bachelor,North,Single,2024-03-09,P067,Running Shoes,Sports,Footwear,120.5,1,Debit Card
+1008,Male,26,55000,Designer,Bachelor,East,Single,2024-03-11,P078,Smart Watch,Electronics,Wearables,249.99,1,Credit Card
+1009,Female,48,110000,Director,Master,South,Married,2024-03-06,P089,Dining Table,Furniture,Dining,899.99,1,Bank Transfer
+1010,Male,33,78000,Developer,Master,West,Married,2024-03-08,P090,Office Chair,Furniture,Office,349.5,2,Credit Card
+1011,Female,29,59000,Nurse,Bachelor,Central,Single,2024-02-25,P101,First Aid Kit,Health,Emergency,45.99,1,Debit Card
+1012,Male,41,92000,Consultant,PhD,East,Married,2024-03-13,P112,Business Laptop,Electronics,Computers,1599.99,1,Credit Card
+1012,Male,41,92000,Consultant,PhD,East,Married,2024-01-15,P089,Dining Table,Furniture,Dining,899.99,1,Bank Transfer
+1013,Female,36,81000,Pharmacist,Master,North,Divorced,2024-03-04,P123,Prescription Glasses,Health,Vision,199.5,1,Health Insurance
+1014,Male,23,48000,Accountant,Bachelor,West,Single,2024-03-01,P134,Tax Software,Software,Finance,79.99,1,PayPal
+1015,Female,37,76000,Marketing,Master,South,Married,2024-02-22,P145,Digital Camera,Electronics,Photography,699.95,1,Credit Card
+1016,Male,44,105000,Executive,MBA,East,Married,2024-03-03,P156,Executive Pen Set,Office,Stationery,125.0,1,Credit Card
+1016,Male,44,105000,Executive,MBA,East,Married,2024-03-18,P167,Leather Briefcase,Accessories,Bags,350.0,1,Credit Card
+1017,Female,27,63000,Journalist,Bachelor,Central,Single,2024-02-19,P178,Voice Recorder,Electronics,Audio,175.5,1,Debit Card
+1018,Male,50,115000,Professor,PhD,North,Married,2024-03-16,P189,Academic Books,Books,Education,245.0,3,Credit Card
+1019,Female,32,69000,HR Manager,Master,East,Married,2024-02-17,P190,Ergonomic Keyboard,Electronics,Accessories,129.99,1,Credit Card
+1020,Male,35,79000,Architect,Master,South,Single,2024-03-17,P201,Design Software,Software,Design,599.0,1,Bank Transfer
+1021,Female,42,97000,Veterinarian,Doctorate,West,Divorced,2024-02-26,P212,Pet Supplies,Pets,Care,87.5,2,Credit Card
+1022,Male,30,71000,Sales,Bachelor,North,Single,2024-03-14,P223,Bluetooth Speaker,Electronics,Audio,159.95,1,PayPal
+1023,Female,49,125000,CFO,MBA,Central,Married,2024-03-07,P234,Financial Planner,Services,Finance,399.0,1,Bank Transfer
+1024,Male,38,83000,IT Specialist,Bachelor,South,Married,2024-02-24,P245,Wireless Router,Electronics,Networking,129.5,1,Credit Card
+1025,Female,25,52000,Graphic Designer,Bachelor,East,Single,2024-03-19,P256,Drawing Tablet,Electronics,Design,299.0,1,PayPal
+1026,Male,43,99000,Dentist,Doctorate,West,Married,2024-02-29,P267,Water Flosser,Health,Dental,89.95,1,Health Insurance
+1027,Female,34,77000,Project Manager,Master,Central,Single,2024-03-15,P278,Project Management Software,Software,Business,199.99,1,Credit Card
+1028,Male,31,68000,Chef,Culinary School,South,Married,2024-03-18,P289,Chef Knife Set,Home,Kitchen,249.5,1,Debit Card
+1029,Female,46,105000,Psychologist,PhD,North,Divorced,2024-02-21,P290,Psychology Books,Books,Professional,175.0,2,Credit Card
+1030,Male,29,64000,Fitness Trainer,Bachelor,East,Single,2024-03-11,P301,Fitness Equipment,Sports,Training,399.99,1,Credit Card
+1030,Male,29,64000,Fitness Trainer,Bachelor,East,Single,2024-01-25,P312,Protein Powder,Health,Supplements,65.0,2,Debit Card
+1031,Female,39,88000,Attorney,JD,West,Married,2024-03-08,P323,Legal Reference Books,Books,Professional,220.0,1,Bank Transfer
+1032,Male,22,42000,Social Media Specialist,Associate,Central,Single,2024-02-20,P334,Smartphone,Electronics,Mobile,899.0,1,Credit Card
+1033,Female,51,130000,Surgeon,MD,North,Married,2024-03-09,P345,Medical Journal Subscription,Services,Professional,299.0,1,Credit Card
+1034,Male,40,91000,Financial Advisor,Master,East,Divorced,2024-03-05,P356,Investment Books,Books,Finance,85.5,3,Credit Card
+1035,Female,33,74000,Interior Designer,Bachelor,South,Married,2024-02-27,P367,Home Decor Set,Home,Decoration,299.99,1,Credit Card
+1036,Male,47,108000,Pilot,Bachelor,West,Married,2024-03-13,P378,Travel Luggage,Travel,Bags,199.5,2,Credit Card
+1037,Female,30,65000,Researcher,PhD,Central,Single,2024-03-06,P389,Scientific Calculator,Electronics,Education,125.0,1,Debit Card
+1038,Male,36,80000,Software Engineer,Master,North,Married,2024-02-18,P390,Mechanical Keyboard,Electronics,Accessories,149.99,1,PayPal
+1039,Female,41,93000,Event Planner,Bachelor,South,Single,2024-03-16,P401,Planner Software,Software,Productivity,75.0,1,Credit Card
+1040,Male,24,51000,Customer Service,Associate,East,Single,2024-03-01,P412,Headset,Electronics,Audio,129.0,1,Debit Card
+1041,Female,44,102000,Marketing Director,MBA,West,Married,2024-02-23,P423,Marketing Strategy Books,Books,Business,110.0,2,Bank Transfer
+1042,Male,37,82000,Product Manager,Master,Central,Married,2024-03-19,P434,Product Management Course,Services,Education,499.0,1,Credit Card
+1043,Female,26,56000,Physical Therapist,Doctorate,North,Single,2024-03-04,P445,Therapy Equipment,Health,Rehabilitation,289.5,1,Health Insurance
+1044,Male,53,135000,CEO,MBA,South,Married,2024-02-16,P456,Executive Chair,Furniture,Office,899.0,1,Bank Transfer
+1045,Female,35,79000,Scientist,PhD,East,Divorced,2024-03-12,P467,Lab Equipment,Professional,Scientific,975.0,1,Credit Card
+1046,Male,32,70000,Civil Engineer,Master,Central,Single,2024-03-03,P478,Engineering Software,Software,Professional,1200.0,1,Bank Transfer
+1047,Female,48,112000,Human Resources Director,Master,West,Married,2024-02-25,P489,HR Management Books,Books,Professional,120.0,2,Credit Card
+1048,Male,27,59000,Web Developer,Bachelor,South,Single,2024-03-17,P490,Web Development Course,Services,Education,349.0,1,PayPal
+1049,Female,38,84000,Nutritionist,Master,North,Married,2024-03-10,P501,Nutrition Books,Books,Health,95.0,2,Debit Card
+1050,Male,42,95000,Sales Manager,Bachelor,East,Married,2024-02-28,P512,CRM Software,Software,Business,399.0,1,Credit Card
