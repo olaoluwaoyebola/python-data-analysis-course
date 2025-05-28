@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,city,state,country,registration_date,age,gender
+CUST001,Alice,Johnson,alice.johnson@email.com,New York,NY,USA,2024-01-15,28,F
+CUST002,Bob,Smith,bob.smith@email.com,Los Angeles,CA,USA,2024-02-03,35,M
+CUST003,Carol,Brown,carol.brown@email.com,Chicago,IL,USA,2024-01-28,42,F
+CUST004,David,Wilson,david.wilson@email.com,Houston,TX,USA,2024-03-10,31,M
+CUST005,Emma,Davis,emma.davis@email.com,Phoenix,AZ,USA,2024-02-14,26,F
+CUST006,Frank,Miller,frank.miller@email.com,Philadelphia,PA,USA,2024-01-20,39,M
+CUST007,Grace,Taylor,grace.taylor@email.com,San Antonio,TX,USA,2024-03-05,33,F
+CUST008,Henry,Anderson,henry.anderson@email.com,San Diego,CA,USA,2024-02-28,45,M
+CUST009,Iris,Thomas,iris.thomas@email.com,Dallas,TX,USA,2024-01-12,29,F
+CUST010,Jack,Jackson,jack.jackson@email.com,San Jose,CA,USA,2024-03-18,37,M
+CUST011,Kate,White,kate.white@email.com,Austin,TX,USA,2024-02-07,24,F
+CUST012,Leo,Harris,leo.harris@email.com,Jacksonville,FL,USA,2024-01-30,41,M
+CUST013,Mia,Martin,mia.martin@email.com,Fort Worth,TX,USA,2024-03-12,32,F
+CUST014,Noah,Thompson,noah.thompson@email.com,Columbus,OH,USA,2024-02-20,38,M
+CUST015,Olivia,Garcia,olivia.garcia@email.com,Charlotte,NC,USA,2024-01-25,27,F
+CUST016,Paul,Martinez,paul.martinez@email.com,San Francisco,CA,USA,2024-03-08,44,M
+CUST017,Quinn,Robinson,quinn.robinson@email.com,Indianapolis,IN,USA,2024-02-15,36,F
+CUST018,Ryan,Clark,ryan.clark@email.com,Seattle,WA,USA,2024-01-18,30,M
+CUST019,Sophia,Rodriguez,sophia.rodriguez@email.com,Denver,CO,USA,2024-03-01,25,F
+CUST020,Tom,Lewis,tom.lewis@email.com,Washington,DC,USA,2024-02-12,43,M
