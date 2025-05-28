@@ -1,0 +1,26 @@
+product_id,product_name,category,Jan_2025,Feb_2025,Mar_2025
+PROD001,MacBook Pro 14-inch,Electronics,15999.92,17999.91,21999.89
+PROD002,iPhone 15 Pro,Electronics,9999.90,11999.88,12999.87
+PROD003,Samsung Galaxy Tab S9,Electronics,6499.92,7149.91,8449.89
+PROD004,Sony WH-1000XM5,Electronics,3499.92,3849.91,4199.90
+PROD005,Dell UltraSharp 27 Monitor,Electronics,2999.92,3299.91,3899.89
+PROD006,Nike Air Max 270,Footwear,1949.87,2209.86,2599.84
+PROD007,Adidas Ultraboost 22,Footwear,1599.92,1759.91,2239.89
+PROD008,Converse Chuck Taylor,Footwear,1199.80,1439.76,1559.75
+PROD009,Levi's 501 Original Jeans,Clothing,1799.82,1979.81,2249.79
+PROD010,Patagonia Fleece Jacket,Clothing,1499.92,1649.91,1949.89
+PROD011,Under Armour T-Shirt,Clothing,999.60,1249.50,1374.45
+PROD012,The Great Gatsby,Books,389.70,519.60,649.50
+PROD013,Sapiens,Books,509.70,679.60,849.50
+PROD014,Atomic Habits,Books,569.70,759.60,949.50
+PROD015,Instant Pot Duo 7-in-1,Home & Kitchen,1999.75,2399.70,2719.66
+PROD016,KitchenAid Stand Mixer,Home & Kitchen,3499.92,3849.91,4199.90
+PROD017,Dyson V15 Detect,Home & Kitchen,2999.97,3749.96,4499.95
+PROD018,Fitbit Charge 5,Health & Fitness,1499.92,1649.91,1949.89
+PROD019,Yoga Mat Premium,Health & Fitness,799.80,999.75,1199.70
+PROD020,Protein Powder Whey,Health & Fitness,899.70,1199.60,1349.55
+PROD021,Gaming Chair RGB,Electronics,0.00,0.00,0.00
+PROD022,Mechanical Keyboard,Electronics,1299.92,1429.91,1689.89
+PROD023,Wireless Mouse,Electronics,999.80,1199.75,1399.70
+PROD024,Bluetooth Speaker,Electronics,1799.82,1979.81,2249.79
+PROD025,Coffee Maker,Home & Kitchen,1999.92,2199.91,2599.89
