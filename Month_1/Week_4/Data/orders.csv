@@ -1,0 +1,53 @@
+order_id,customer_id,order_date,total_amount,status,payment_method,shipping_address,shipping_city,shipping_state
+ORD001,CUST001,2025-01-15,1299.99,Delivered,Credit Card,123 Main St,New York,NY
+ORD002,CUST002,2025-01-16,849.99,Delivered,PayPal,456 Oak Ave,Los Angeles,CA
+ORD003,CUST001,2025-01-17,79.99,Delivered,Credit Card,123 Main St,New York,NY
+ORD004,CUST003,2025-01-18,199.99,Delivered,Debit Card,789 Pine Rd,Chicago,IL
+ORD005,CUST004,2025-01-19,299.99,Shipped,Credit Card,321 Elm St,Houston,TX
+ORD006,CUST002,2025-01-20,149.99,Delivered,PayPal,456 Oak Ave,Los Angeles,CA
+ORD007,CUST005,2025-01-21,89.99,Delivered,Credit Card,654 Maple Dr,Phoenix,AZ
+ORD008,CUST006,2025-01-22,399.99,Delivered,Credit Card,987 Cedar Ln,Philadelphia,PA
+ORD009,CUST007,2025-01-23,159.99,Delivered,Debit Card,147 Birch St,San Antonio,TX
+ORD010,CUST008,2025-01-24,249.99,Delivered,Credit Card,258 Willow Ave,San Diego,CA
+ORD011,CUST009,2025-01-25,69.99,Delivered,PayPal,369 Spruce Rd,Dallas,TX
+ORD012,CUST010,2025-01-26,179.99,Delivered,Credit Card,741 Poplar St,San Jose,CA
+ORD013,CUST011,2025-01-27,349.99,Delivered,Credit Card,852 Ash Dr,Austin,TX
+ORD014,CUST012,2025-01-28,129.99,Delivered,Debit Card,963 Fir Ln,Jacksonville,FL
+ORD015,CUST013,2025-01-29,219.99,Delivered,Credit Card,159 Redwood Ave,Fort Worth,TX
+ORD016,CUST014,2025-01-30,99.99,Delivered,PayPal,267 Sequoia Rd,Columbus,OH
+ORD017,CUST015,2025-01-31,189.99,Delivered,Credit Card,378 Juniper St,Charlotte,NC
+ORD018,CUST016,2025-02-01,449.99,Delivered,Credit Card,489 Cypress Dr,San Francisco,CA
+ORD019,CUST017,2025-02-02,79.99,Delivered,Debit Card,591 Magnolia Ln,Indianapolis,IN
+ORD020,CUST018,2025-02-03,329.99,Delivered,Credit Card,612 Dogwood Ave,Seattle,WA
+ORD021,CUST019,2025-02-04,149.99,Delivered,PayPal,723 Sycamore Rd,Denver,CO
+ORD022,CUST020,2025-02-05,199.99,Delivered,Credit Card,834 Hickory St,Washington,DC
+ORD023,CUST001,2025-02-06,399.99,Delivered,Credit Card,123 Main St,New York,NY
+ORD024,CUST003,2025-02-07,249.99,Delivered,Debit Card,789 Pine Rd,Chicago,IL
+ORD025,CUST005,2025-02-08,179.99,Delivered,Credit Card,654 Maple Dr,Phoenix,AZ
+ORD026,CUST007,2025-02-09,299.99,Delivered,Credit Card,147 Birch St,San Antonio,TX
+ORD027,CUST009,2025-02-10,89.99,Delivered,PayPal,369 Spruce Rd,Dallas,TX
+ORD028,CUST011,2025-02-11,169.99,Delivered,Credit Card,852 Ash Dr,Austin,TX
+ORD029,CUST013,2025-02-12,129.99,Delivered,Debit Card,159 Redwood Ave,Fort Worth,TX
+ORD030,CUST015,2025-02-13,359.99,Delivered,Credit Card,378 Juniper St,Charlotte,NC
+ORD031,CUST017,2025-02-14,199.99,Delivered,Credit Card,591 Magnolia Ln,Indianapolis,IN
+ORD032,CUST019,2025-02-15,109.99,Delivered,PayPal,723 Sycamore Rd,Denver,CO
+ORD033,CUST002,2025-02-16,279.99,Delivered,PayPal,456 Oak Ave,Los Angeles,CA
+ORD034,CUST004,2025-02-17,149.99,Delivered,Credit Card,321 Elm St,Houston,TX
+ORD035,CUST006,2025-02-18,229.99,Delivered,Credit Card,987 Cedar Ln,Philadelphia,PA
+ORD036,CUST008,2025-02-19,189.99,Delivered,Debit Card,258 Willow Ave,San Diego,CA
+ORD037,CUST010,2025-02-20,319.99,Delivered,Credit Card,741 Poplar St,San Jose,CA
+ORD038,CUST012,2025-02-21,99.99,Delivered,Credit Card,963 Fir Ln,Jacksonville,FL
+ORD039,CUST014,2025-02-22,259.99,Delivered,PayPal,267 Sequoia Rd,Columbus,OH
+ORD040,CUST016,2025-02-23,379.99,Delivered,Credit Card,489 Cypress Dr,San Francisco,CA
+ORD041,CUST018,2025-02-24,139.99,Delivered,Credit Card,612 Dogwood Ave,Seattle,WA
+ORD042,CUST020,2025-02-25,299.99,Delivered,Debit Card,834 Hickory St,Washington,DC
+ORD043,CUST001,2025-02-26,449.99,Delivered,Credit Card,123 Main St,New York,NY
+ORD044,CUST003,2025-02-27,169.99,Delivered,Credit Card,789 Pine Rd,Chicago,IL
+ORD045,CUST005,2025-02-28,119.99,Delivered,PayPal,654 Maple Dr,Phoenix,AZ
+ORD046,CUST007,2025-03-01,209.99,Delivered,Credit Card,147 Birch St,San Antonio,TX
+ORD047,CUST009,2025-03-02,159.99,Delivered,Credit Card,369 Spruce Rd,Dallas,TX
+ORD048,CUST011,2025-03-03,289.99,Delivered,Debit Card,852 Ash Dr,Austin,TX
+ORD049,CUST013,2025-03-04,199.99,Delivered,Credit Card,159 Redwood Ave,Fort Worth,TX
+ORD050,CUST015,2025-03-05,329.99,Delivered,Credit Card,378 Juniper St,Charlotte,NC
+ORD051,CUST999,2025-03-06,149.99,Delivered,Credit Card,Unknown Address,Unknown,Unknown
+ORD052,CUST888,2025-03-07,89.99,Processing,PayPal,Unknown Address,Unknown,Unknown
