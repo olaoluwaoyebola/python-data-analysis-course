@@ -1,0 +1,26 @@
+product_id,product_name,category,price,cost,supplier,in_stock,stock_quantity,description
+PROD001,MacBook Pro 14-inch,Electronics,1999.99,1200.00,Apple,TRUE,25,High-performance laptop with M1 Pro chip
+PROD002,iPhone 15 Pro,Electronics,999.99,600.00,Apple,TRUE,45,Latest smartphone with advanced camera system
+PROD003,Samsung Galaxy Tab S9,Electronics,649.99,400.00,Samsung,TRUE,30,Premium Android tablet with S Pen
+PROD004,Sony WH-1000XM5,Electronics,349.99,200.00,Sony,TRUE,60,Noise-canceling wireless headphones
+PROD005,Dell UltraSharp 27 Monitor,Electronics,299.99,180.00,Dell,TRUE,20,4K monitor for professional use
+PROD006,Nike Air Max 270,Footwear,129.99,65.00,Nike,TRUE,80,Comfortable running shoes with Air Max technology
+PROD007,Adidas Ultraboost 22,Footwear,159.99,80.00,Adidas,TRUE,55,Premium running shoes with boost technology
+PROD008,Converse Chuck Taylor,Footwear,59.99,30.00,Converse,TRUE,120,Classic canvas sneakers
+PROD009,Levi's 501 Original Jeans,Clothing,89.99,45.00,Levi's,TRUE,75,Classic straight-fit denim jeans
+PROD010,Patagonia Fleece Jacket,Clothing,149.99,75.00,Patagonia,TRUE,40,Eco-friendly outdoor fleece jacket
+PROD011,Under Armour T-Shirt,Clothing,24.99,12.00,Under Armour,TRUE,150,Moisture-wicking athletic t-shirt
+PROD012,The Great Gatsby,Books,12.99,6.50,Penguin Classics,TRUE,200,Classic American literature
+PROD013,Sapiens,Books,16.99,8.50,Harper,TRUE,85,Popular science and history book
+PROD014,Atomic Habits,Books,18.99,9.50,Avery,TRUE,90,Self-improvement and productivity guide
+PROD015,Instant Pot Duo 7-in-1,Home & Kitchen,79.99,40.00,Instant Pot,TRUE,35,Multi-functional pressure cooker
+PROD016,KitchenAid Stand Mixer,Home & Kitchen,349.99,200.00,KitchenAid,TRUE,15,Professional-grade stand mixer
+PROD017,Dyson V15 Detect,Home & Kitchen,749.99,450.00,Dyson,TRUE,12,Cordless vacuum with laser detection
+PROD018,Fitbit Charge 5,Health & Fitness,149.99,75.00,Fitbit,TRUE,65,Advanced fitness tracker with GPS
+PROD019,Yoga Mat Premium,Health & Fitness,39.99,20.00,Manduka,TRUE,100,Non-slip premium yoga mat
+PROD020,Protein Powder Whey,Health & Fitness,29.99,15.00,Optimum Nutrition,TRUE,80,High-quality whey protein supplement
+PROD021,Gaming Chair RGB,Electronics,299.99,150.00,DXRacer,FALSE,0,Ergonomic gaming chair with RGB lighting
+PROD022,Mechanical Keyboard,Electronics,129.99,65.00,Logitech,TRUE,35,RGB mechanical gaming keyboard
+PROD023,Wireless Mouse,Electronics,49.99,25.00,Logitech,TRUE,90,High-precision wireless gaming mouse
+PROD024,Bluetooth Speaker,Electronics,89.99,45.00,JBL,TRUE,70,Portable waterproof Bluetooth speaker
+PROD025,Coffee Maker,Home & Kitchen,199.99,100.00,Cuisinart,TRUE,25,Programmable drip coffee maker
