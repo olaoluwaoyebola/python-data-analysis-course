@@ -86,6 +86,7 @@ Each requires real business insights from Olist e-commerce dataset.
 
 #### Repository
 - GitHub Repository: "autom8or-com/python-data-analysis-course"
+- Access via GitHub MCP Server when asked
 
 #### Development Workflow
 - Always create a branch (`month_week_day`) unless otherwise stated
@@ -110,8 +111,8 @@ Week_X/
 - Thursday: `02_<topic>_part<Number>_<subTopic>.ext`
 
 #### Data Resources
-- Brazilian E-Commerce Dataset: https://github.com/autom8or-com/python-data-analysis-course/tree/main/Resources/data/sales.zip
-- Marketing Funnel Dataset: [Resources/data](https://github.com/autom8or-com/python-data-analysis-course/tree/main/Resources/data)/marketing_funnel.zip
+- Brazilian E-Commerce Dataset: https://github.com/autom8or-com/python-data-analysis-course/blob/main/Resources/data/sales.zip
+- Marketing Funnel Dataset: https://github.com/autom8or-com/python-data-analysis-course/blob/main/Resources/data/marketing_funnel.zip
 
 #### Additional Notes
 - Students have intermediate SQL knowledge
