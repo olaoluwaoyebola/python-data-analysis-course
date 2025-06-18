@@ -25,10 +25,31 @@ wheels/
 
 # Environment
 .env
+.env.*
 .venv
 env/
 venv/
 ENV/
+
+# Credentials and Configuration
+*.config.json
+*config*.json
+*settings*.json
+*credentials*
+*secrets*
+.mcp-*
+mcp-*
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Database and Connection Files
+connection*
+database*
 
 # OS specific
 .DS_Store
