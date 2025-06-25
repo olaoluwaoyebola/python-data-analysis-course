@@ -117,3 +117,15 @@ Week_X/
 #### Additional Notes
 - Students have intermediate SQL knowledge
 - When unsure, check `ReadMe.md` in working or parent directory
+
+## Database Configuration
+
+### Supabase Database Access
+- Use the Supabase MCP server to access project databases
+- Key schemas:
+  - "olist_sales_data_set": Primary sales dataset
+  - "olist_marketing_data_set": Marketing-related data
+
+## Security Best Practices
+
+- NEVER INCLUDE DATABASE CREDENTIALS IN AN TUTORIAL FILE. SAVE IN .ENV FILES. AND CALL IN OTHER FILES WHERE NEEDED.
