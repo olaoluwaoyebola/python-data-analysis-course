@@ -1,31 +1,23 @@
-# Month 3: Advanced Topics and Project Preparation
+# Month 3: Streamlit Development and Project Preparation
 
-This month introduces machine learning concepts, clustering techniques, and advanced e-commerce analytics, culminating in project preparation.
+This month introduces Streamlit for creating interactive web applications from Python data analysis code and focuses on preparing students for capstone project development.
 
 ## Weeks
 
-### [Week 9: Machine Learning Fundamentals](Week_9/)
-- **Wednesday (Jun 4):** Introduction to scikit-learn
-- **Thursday (Jun 5):** Classification Models
+### [Week 9: Streamlit Fundamentals and Dashboard Development](Week_9/)
+- **Wednesday (Jun 4):** Streamlit Basics and Setup
+- **Thursday (Jun 5):** Advanced Streamlit and Interactivity
 
-### [Week 10: Clustering and Dimensionality Reduction](Week_10/)
-- **Wednesday (Jun 11):** Unsupervised Learning
-- **Thursday (Jun 12):** Dimensionality Reduction
-
-### [Week 11: Advanced E-commerce Analytics](Week_11/)
-- **Wednesday (Jun 18):** Customer Lifetime Value
-- **Thursday (Jun 19):** Marketing Funnel Analysis
-
-### [Week 12: Project Preparation](Week_12/)
-- **Wednesday (Jun 25):** Project Planning
-- **Thursday (Jun 26):** Project Design Review
+### [Week 10: Capstone Project Packaging and Deployment](Week_10/)
+- **Wednesday (Jun 11):** Project Integration and Polish
+- **Thursday (Jun 12):** Deployment and Presentation Preparation
 
 ## Learning Objectives
 
 By the end of this month, students will be able to:
-1. Apply machine learning techniques to data analysis problems
-2. Implement classification and clustering algorithms
-3. Perform dimensionality reduction for visualization and modeling
-4. Calculate customer lifetime value and segment customers
-5. Analyze marketing funnels and conversion rates
-6. Develop a comprehensive project plan for the capstone project
+1. Create interactive web applications using Streamlit
+2. Convert analysis notebooks into user-friendly dashboards
+3. Deploy Streamlit applications to the cloud
+4. Design interfaces for business stakeholders
+5. Integrate real-time data with Streamlit applications
+6. Prepare comprehensive capstone project proposals with Streamlit requirements

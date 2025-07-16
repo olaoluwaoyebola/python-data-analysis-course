@@ -54,71 +54,49 @@
 
 ## Month 3: Advanced Topics and Project Preparation
 
-### Week 9: Machine Learning Fundamentals
-- **Wednesday, June 4, 2025**: Introduction to scikit-learn
+### Week 9: Streamlit Fundamentals and Dashboard Development
+- **Wednesday, June 4, 2025**: Streamlit Basics and Setup
   - Minor Assignment Due: June 10, 2025
-- **Thursday, June 5, 2025**: Classification Models
+- **Thursday, June 5, 2025**: Advanced Streamlit and Interactivity
   - Major Assignment Due: June 12, 2025
 
-### Week 10: Clustering and Dimensionality Reduction
-- **Wednesday, June 11, 2025**: Unsupervised Learning
+### Week 10: Capstone Project Packaging and Deployment
+- **Wednesday, June 11, 2025**: Project Integration and Polish
   - Minor Assignment Due: June 17, 2025
-- **Thursday, June 12, 2025**: Dimensionality Reduction
-  - Major Assignment Due: June 19, 2025
+- **Thursday, June 12, 2025**: Deployment and Presentation Preparation
+  - Final Project Proposal Due: June 19, 2025
 
-### Week 11: Advanced E-commerce Analytics
-- **Wednesday, June 18, 2025**: Customer Lifetime Value
-  - Minor Assignment Due: June 24, 2025
-- **Thursday, June 19, 2025**: Marketing Funnel Analysis
-  - Major Assignment Due: June 26, 2025
+## Months 4-5: Capstone Project (June 19 - August 7, 2025)
 
-### Week 12: Project Preparation
-- **Wednesday, June 25, 2025**: Project Planning
-  - Project Proposal Draft Due: July 1, 2025
-- **Thursday, June 26, 2025**: Project Design Review
-  - Final Project Proposal Due: July 2, 2025
+### Week 11: Data Acquisition and Preparation
+- **Wednesday, June 19, 2025**: Technical Workshop - Data Cleaning & Streamlit Setup
+- **Thursday, June 20, 2025**: Project Working Session
+  - Milestone: Data Preparation Plan & Initial Streamlit Structure
 
-## Months 4-5: Capstone Project (July 2 - August 28, 2025)
+### Week 12: Exploratory Data Analysis
+- **Wednesday, June 25, 2025**: Technical Workshop - EDA & Interactive Visualization
+- **Thursday, June 26, 2025**: Project Working Session
+  - Milestone: Interactive EDA Dashboard
 
-### Week 13: Data Acquisition and Preparation
-- **Wednesday, July 2, 2025**: Technical Workshop - Data Cleaning
+### Week 13: Analysis and Insights Development
+- **Wednesday, July 2, 2025**: Technical Workshop - Advanced Analytics & Streamlit Components
 - **Thursday, July 3, 2025**: Project Working Session
-  - Milestone: Data Preparation Plan
+  - Milestone: Core Analysis Features
 
-### Week 14: Exploratory Data Analysis
-- **Wednesday, July 9, 2025**: Technical Workshop - Advanced EDA
+### Week 14: Application Development
+- **Wednesday, July 9, 2025**: Technical Workshop - Advanced Streamlit Features
 - **Thursday, July 10, 2025**: Project Working Session
-  - Milestone: Initial Data Exploration
+  - Milestone: Complete Streamlit Application
 
-### Week 15: Initial Findings
-- **Wednesday, July 16, 2025**: Technical Workshop - Analytical Methods
+### Week 15: Refinement and Deployment
+- **Wednesday, July 16, 2025**: Technical Workshop - Deployment & Performance
 - **Thursday, July 17, 2025**: Project Working Session
-  - Milestone: Preliminary Analysis Plan
+  - Milestone: Deployed Application
 
-### Week 16: Detailed Analysis
-- **Wednesday, July 23, 2025**: Technical Workshop - Statistical Methods
-- **Thursday, July 24, 2025**: Project Working Session
-  - Milestone: Initial Findings Report
-
-### Week 17: Visualization Development
-- **Wednesday, July 30, 2025**: Technical Workshop - Advanced Visualization
-- **Thursday, July 31, 2025**: Project Working Session
-  - Milestone: Data Visualizations
-
-### Week 18: Report Development
-- **Wednesday, August 6, 2025**: Technical Workshop - Report Writing
-- **Thursday, August 7, 2025**: Project Working Session
-  - Milestone: Draft Report
-
-### Week 19: Refinement
-- **Wednesday, August 13, 2025**: Technical Workshop - Presentation Skills
-- **Thursday, August 14, 2025**: Project Working Session
-  - Milestone: Draft Presentation
-
-### Week 20: Final Presentations
-- **Wednesday, August 20, 2025**: Final Presentations (Groups 1-5)
-- **Thursday, August 21, 2025**: Final Presentations (Groups 6-10)
+### Week 16: Final Presentations
+- **Wednesday, July 23, 2025**: Final Presentations (Groups 1-5)
+- **Thursday, July 24, 2025**: Final Presentations (Groups 6-10)
 
 ### Final Submission
-- **Wednesday, August 27, 2025**: Final Project Report Due
-- **Thursday, August 28, 2025**: Course Conclusion and Evaluation
+- **Wednesday, August 6, 2025**: Final Streamlit Application Due
+- **Thursday, August 7, 2025**: Course Conclusion and Evaluation

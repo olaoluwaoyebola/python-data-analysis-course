@@ -1,7 +1,7 @@
 # Python for Data Analysis Course
 
 ## Course Overview
-This 5-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 2-month capstone project.
+This 4-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 6-week capstone project delivered as a deployed Streamlit web application.
 
 - **Start Date:** April 9th, 2025
 - **Schedule:** Wednesdays and Thursdays, 2 hours each day
@@ -25,17 +25,15 @@ Python for Data Analysis/
 │   ├── Week_6: Advanced Visualization and SQL Integration
 │   ├── Week_7: Exploratory Data Analysis
 │   └── Week_8: Statistical Analysis in Python
-├── Month_3: Advanced Topics and Project Preparation
-│   ├── Week_9: Machine Learning Fundamentals
-│   ├── Week_10: Clustering and Dimensionality Reduction
-│   ├── Week_11: Advanced E-commerce Analytics
-│   └── Week_12: Project Preparation
-├── Months_4-5: Capstone Project
+├── Month_3: Streamlit Development and Project Preparation
+│   ├── Week_9: Streamlit Fundamentals and Dashboard Development
+│   └── Week_10: Capstone Project Packaging and Deployment
+├── Month_4: Capstone Project
 │   ├── Workshops/
 │   ├── Project_Templates/
 │   ├── Resources/
 │   └── Weekly_Structure/
-├── Project_Categories/
+├── Project/
 └── Resources/
     ├── data/
     ├── templates/
@@ -47,7 +45,7 @@ Python for Data Analysis/
 - [Course Overview](course_overview.md): Course goals, structure, and assessment
 - [Syllabus](Syllabus.md): Detailed weekly topics and content
 - [Course Calendar](course_calendar.md): Schedule with all important dates
-- [Project Requirements](Project_Categories/README.md): Capstone project information
+- [Project Requirements](Project/README.md): Capstone project information
 - [Getting Started](getting_started.md): Setup guide for students
 
 ## Weekly Structure

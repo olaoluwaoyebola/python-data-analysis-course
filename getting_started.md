@@ -12,20 +12,20 @@ All course materials are available in this GitHub repository. Here's how to navi
 
 The repository is organized by month and week, following our course curriculum:
 
-- **Month_1 to Month_3**: Course content for the first three months
-  - **Week_1 to Week_12**: Weekly folders containing:
+- **Month_1 to Month_3**: Course content for 10 weeks of instruction
+  - **Week_1 to Week_10**: Weekly folders containing:
     - **Lecture/**: Instructor-led notebooks
     - **Practice/**: Guided exercises
     - **Assignments/**: Starter code for assignments
     - **Data/**: Datasets for that week's work
 
-- **Months_4-5**: Capstone project materials
+- **Month_4**: Capstone project materials
   - **Workshops/**: Technical workshop materials
   - **Project_Templates/**: Templates for project deliverables
   - **Resources/**: Project-specific resources
   - **Weekly_Structure/**: Week-by-week project guidance
 
-- **Project_Categories/**: Detailed information on project options and requirements
+- **Project/**: Detailed information on project options and requirements
 
 - **Resources/**: Shared materials for the entire course
   - **data/**: Sample datasets
@@ -73,7 +73,7 @@ Take some time to explore these key documents:
 - `course_overview.md`: Course goals, structure, and assessment
 - `Syllabus.md`: Detailed weekly topics
 - `course_calendar.md`: Schedule with all important dates
-- `Project_Categories/README.md`: Project options and requirements
+- `Project/README.md`: Project options and requirements
 - `Resources/learning_pathway.md`: Learning progression guide
 - `Resources/sql_to_pandas.md`: SQL to Python translation guide
 

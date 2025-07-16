@@ -6,7 +6,7 @@ The capstone project accounts for 40% of the final course grade and is evaluated
 ## Project Components and Weights
 - Project Proposal (5%)
 - Progress Milestones (10%)
-- Final Report (15%)
+- Streamlit Application (15%)
 - Final Presentation (10%)
 
 ## Detailed Evaluation Criteria
@@ -43,15 +43,15 @@ The capstone project accounts for 40% of the final course grade and is evaluated
 | 3-4 | Poorly organized code with minimal documentation |
 | 0-2 | Disorganized code lacking documentation |
 
-#### Visualizations (5%)
+#### Streamlit Application Interface (10%)
 
 | Score | Description |
 |-------|-------------|
-| 5 | Outstanding visualizations that effectively communicate complex patterns with excellent design |
-| 4 | Strong visualizations that clearly communicate findings with good design |
-| 3 | Adequate visualizations that convey basic information |
-| 2 | Basic visualizations with design issues |
-| 0-1 | Poor or missing visualizations |
+| 9-10 | Outstanding Streamlit application with intuitive navigation, responsive design, and exceptional user experience |
+| 7-8 | Strong Streamlit application with good navigation, interactive features, and clear user interface |
+| 5-6 | Adequate Streamlit application with basic functionality and reasonable user interface |
+| 3-4 | Basic Streamlit application with limited functionality and poor user experience |
+| 0-2 | Poor or non-functional Streamlit application |
 
 ### 2. Business Insights (40%)
 
@@ -87,25 +87,25 @@ The capstone project accounts for 40% of the final course grade and is evaluated
 
 ### 3. Presentation and Documentation (20%)
 
-#### Final Report (10%)
+#### Application Documentation (10%)
 
 | Score | Description |
 |-------|-------------|
-| 9-10 | Exceptional report with professional quality, compelling narrative, and comprehensive coverage |
-| 7-8 | Well-structured report with clear writing and good coverage of key areas |
-| 5-6 | Adequate report covering essential elements |
-| 3-4 | Basic report with structural or content issues |
-| 0-2 | Poor or incomplete report |
+| 9-10 | Exceptional embedded documentation with clear instructions, comprehensive explanations, and professional presentation |
+| 7-8 | Well-structured documentation with clear explanations and good user guidance |
+| 5-6 | Adequate documentation covering essential elements |
+| 3-4 | Basic documentation with clarity or completeness issues |
+| 0-2 | Poor or missing documentation |
 
-#### Final Presentation (10%)
+#### Final Presentation with Live Demo (10%)
 
 | Score | Description |
 |-------|-------------|
-| 9-10 | Outstanding presentation with excellent delivery, visual aids, and audience engagement |
-| 7-8 | Strong presentation with good delivery and clear visual aids |
-| 5-6 | Adequate presentation covering key points |
-| 3-4 | Basic presentation with delivery or content issues |
-| 0-2 | Poor presentation with significant delivery and content issues |
+| 9-10 | Outstanding presentation with excellent live demo, clear delivery, and engaging audience interaction |
+| 7-8 | Strong presentation with good live demo and clear delivery |
+| 5-6 | Adequate presentation with basic demo covering key points |
+| 3-4 | Basic presentation with demo issues or delivery problems |
+| 0-2 | Poor presentation with significant demo failures or delivery issues |
 
 ## Additional Considerations
 

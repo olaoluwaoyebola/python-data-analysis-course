@@ -1,12 +1,12 @@
-# Python for Data Analysis - 5-Month Curriculum
+# Python for Data Analysis - 4-Month Curriculum
 
 ## Course Overview
-This 5-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 2-month capstone project.
+This 4-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 6-week capstone project delivered as a deployed Streamlit web application.
 
 **Prerequisites:** Intermediate SQL knowledge
 
 ## Course Structure
-- **Duration:** 5 months (3 months instruction + 2 months project)
+- **Duration:** 4 months (2.5 months instruction + 1.5 months project)
 - **Schedule:** Wednesdays and Thursdays, 2 hours each day
 - **Start Date:** April 9th, 2025
 - **Platform:** Google Colab
@@ -125,106 +125,80 @@ This 5-month course teaches Python for data analysis using the Olist Brazilian E
 - Interpretation of results
 - **Major Group Assignment:** Predict order delivery times using regression
 
-## Month 3: Advanced Topics and Project Preparation
+## Month 3: Streamlit Development and Project Preparation
 
-### Week 9: Machine Learning Fundamentals
-**Wednesday (Jun 4) - Introduction to scikit-learn**
-- ML workflow overview
-- Data preprocessing
-- Train-test splits
-- Model evaluation metrics
-- **Minor Assignment:** Build a basic classification model
+### Week 9: Streamlit Fundamentals and Dashboard Development
+**Wednesday (Jun 4) - Streamlit Basics and Setup**
+- Introduction to Streamlit architecture and deployment
+- Basic components (text, charts, widgets)
+- Data visualization with Streamlit
+- **Minor Assignment:** Basic Streamlit dashboard with Olist data
 
-**Thursday (Jun 5) - Classification Models**
-- Logistic regression
-- Decision trees
-- Random forests
-- Application to e-commerce problems
-- **Major Group Assignment:** Customer churn prediction
+**Thursday (Jun 5) - Advanced Streamlit and Interactivity**
+- Advanced widgets and user input handling
+- Multi-page applications and navigation
+- Real-time data integration with Supabase
+- **Major Group Assignment:** Interactive analytics dashboard
 
-### Week 10: Clustering and Dimensionality Reduction
-**Wednesday (Jun 11) - Unsupervised Learning**
-- K-means clustering
-- Hierarchical clustering
-- Customer segmentation techniques
-- **Minor Assignment:** Segment Olist customers
+### Week 10: Capstone Project Packaging and Deployment
+**Wednesday (Jun 11) - Project Integration and Polish**
+- Converting analysis notebooks to Streamlit apps
+- User experience design for business stakeholders
+- Performance optimization and caching
+- **Minor Assignment:** Convert existing analysis to Streamlit format
 
-**Thursday (Jun 12) - Dimensionality Reduction**
-- Principal Component Analysis (PCA)
-- t-SNE for visualization
-- Feature selection methods
-- **Major Group Assignment:** Analyze product categories using clustering
+**Thursday (Jun 12) - Deployment and Presentation Preparation**
+- Streamlit Cloud deployment and sharing
+- Creating compelling project presentations
+- Final project refinement and testing
+- **Major Group Assignment:** Complete Streamlit application for capstone project
 
-### Week 11: Advanced E-commerce Analytics
-**Wednesday (Jun 18) - Customer Lifetime Value**
-- RFM (Recency, Frequency, Monetary) analysis
-- Cohort analysis
-- Customer segmentation
-- **Minor Assignment:** Calculate CLV metrics
+## Month 4: Capstone Project (Jun 19 - Aug 7, 2025)
 
-**Thursday (Jun 19) - Marketing Funnel Analysis**
-- Conversion rate analysis
-- Attribution modeling
-- A/B testing in Python
-- **Major Group Assignment:** Analyze Olist's marketing funnel
-
-### Week 12: Project Preparation
-**Wednesday (Jun 25) - Project Planning**
-- Project requirements and deliverables
-- Team formation
-- Initial project proposals
-- Research question development
-- **Minor Assignment:** Draft project proposal
-
-**Thursday (Jun 26) - Project Design Review**
-- Data requirements planning
-- Technical approach review
-- Timeline and milestone development
-- **Major Group Assignment:** Finalize project proposal with data dictionary and methodology
-
-## Months 4-5: Capstone Project (Jul 2 - Aug 28, 2025)
-
-### Week 13-20: Project Development and Delivery
+### Week 11-16: Project Development and Delivery
 **Weekly Structure:**
-- **Wednesdays:** Technical workshops and project guidance sessions
+- **Wednesdays:** Technical workshops and Streamlit development sessions
 - **Thursdays:** Team working sessions with instructor support
 
 ### Project Milestones:
-1. **Week 13 (Jul 2-3):** Data acquisition and preparation
-2. **Week 14 (Jul 9-10):** Exploratory data analysis
-3. **Week 15 (Jul 16-17):** Preliminary insights and analysis direction
-4. **Week 16 (Jul 23-24):** Detailed analysis and initial findings
-5. **Week 17 (Jul 30-31):** Visualization development and refinement
-6. **Week 18 (Aug 6-7):** Draft presentation and report
-7. **Week 19 (Aug 13-14):** Peer review and refinement
-8. **Week 20 (Aug 20-21):** Final presentations
-9. **Aug 27-28:** Project submission and course conclusion
+1. **Week 11 (Jun 19-20):** Data acquisition and Streamlit setup
+2. **Week 12 (Jun 25-26):** Exploratory data analysis dashboard
+3. **Week 13 (Jul 2-3):** Core analysis features development
+4. **Week 14 (Jul 9-10):** Complete Streamlit application
+5. **Week 15 (Jul 16-17):** Deployment and performance optimization
+6. **Week 16 (Jul 23-24):** Final presentations and app demonstrations
+7. **Aug 6-7:** Final Streamlit application submission and course conclusion
 
 ### Project Options (using Olist dataset):
 1. **Customer Satisfaction Analysis**
-   - Predict review scores based on order attributes
-   - Identify factors contributing to negative reviews
-   - Recommend operational improvements
+   - Analyze customer review patterns and satisfaction drivers using statistical methods
+   - Identify factors contributing to negative reviews through comparative analysis
+   - Segment customers based on satisfaction levels and purchasing behavior
+   - Create interactive dashboard for monitoring customer satisfaction metrics
 
 2. **Seller Performance Optimization**
-   - Analyze seller metrics and performance
-   - Identify characteristics of top-performing sellers
-   - Create a seller scoring system
+   - Analyze seller metrics and performance patterns using statistical methods
+   - Identify characteristics of top-performing sellers through comparative analysis
+   - Create a comprehensive seller scoring system with multiple performance dimensions
+   - Build interactive seller performance monitoring dashboard
 
 3. **Supply Chain and Logistics Analysis**
-   - Analyze delivery performance across regions
-   - Predict delivery delays
-   - Recommend logistics improvements
+   - Analyze delivery performance across regions using statistical testing
+   - Identify delivery bottlenecks and inefficiencies through exploratory data analysis
+   - Evaluate logistics patterns and seasonal trends in delivery performance
+   - Create real-time logistics performance monitoring dashboard
 
 4. **Marketing Channel Effectiveness**
-   - Analyze which marketing channels produce the best sellers
-   - Evaluate conversion rates through the funnel
-   - Recommend optimal marketing investment
+   - Analyze marketing channel performance using statistical methods
+   - Evaluate conversion rates and funnel effectiveness across channels
+   - Compare channel performance across different segments and regions
+   - Build marketing performance tracking and optimization dashboard
 
 5. **Product Category Performance**
-   - Analyze sales trends across product categories
-   - Identify seasonal patterns
-   - Recommend inventory optimization strategies
+   - Analyze sales trends across product categories using time series analysis
+   - Identify seasonal patterns and market trends in product performance
+   - Evaluate category performance using statistical comparisons
+   - Develop product performance monitoring and business intelligence dashboard
 
 ## Assessment Structure
 - **Minor Assignments (30%):** Weekly individual assignments
@@ -232,19 +206,20 @@ This 5-month course teaches Python for data analysis using the Olist Brazilian E
 - **Final Project (40%):**
   - Project proposal (5%)
   - Progress milestones (10%)
-  - Final report (15%)
-  - Presentation (10%)
+  - Streamlit application (15%)
+  - Final presentation (10%)
 
 ## Resources
 - **Required:**
   - Python for Data Analysis by Wes McKinney
   - Olist Brazilian E-commerce Dataset Documentation
   - Google Colab Tutorials
+  - Streamlit Documentation and Tutorials
 
 - **Recommended:**
-  - Hands-On Machine Learning with Scikit-Learn by Aurélien Géron
   - Storytelling with Data by Cole Nussbaumer Knaflic
   - SQL to Python translation references
+  - Streamlit deployment guides
 
 ## Weekly Format
 - **Wednesday Sessions:**
@@ -261,7 +236,8 @@ By the end of this course, students will be able to:
 2. Translate SQL knowledge to equivalent Python operations
 3. Create insightful static and interactive data visualizations
 4. Apply statistical methods to derive insights from data
-5. Build predictive models for business applications
-6. Conduct end-to-end analysis projects from data acquisition to presentation
-7. Use Google Colab effectively for collaborative data science work
-8. Apply data analysis techniques to solve real-world e-commerce problems
+5. Build interactive web applications using Streamlit
+6. Deploy data analysis applications to the cloud
+7. Conduct end-to-end analysis projects from data acquisition to deployment
+8. Use Google Colab effectively for collaborative data science work
+9. Apply data analysis techniques to solve real-world e-commerce problems

@@ -4,22 +4,29 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a 5-month Python data analysis course repository designed for Google Colab. The course bridges SQL knowledge to Python for data analysis, using real e-commerce data from Olist Brazilian marketplace.
+This is a 4-month Python data analysis course repository designed for Google Colab. The course bridges SQL knowledge to Python for data analysis, using real e-commerce data from Olist Brazilian marketplace. The course culminates in a 6-week capstone project delivered as a deployed Streamlit web application.
 
-## Architecture
+## Course Architecture
 
-### Course Structure
-- **Month 1**: Python foundations, NumPy, Pandas, data transformation
-- **Month 2**: Visualization (Matplotlib/Seaborn), advanced Pandas operations  
-- **Month 3**: Statistical analysis, machine learning preparation
-- **Months 4-5**: Capstone projects
+### Current Structure (Updated)
+- **Month 1**: Python foundations, NumPy, Pandas, data transformation (Weeks 1-4)
+- **Month 2**: Visualization (Matplotlib/Seaborn), SQL integration, EDA, statistical analysis (Weeks 5-8)
+- **Month 3**: Streamlit development and project preparation (Weeks 9-10)
+- **Month 4**: Capstone project execution (6 weeks)
+
+### Key Changes Made
+The course has been restructured from a 5-month to 4-month format:
+- Removed advanced ML topics (originally Weeks 11-12)
+- Replaced with Streamlit development (Weeks 9-10)
+- Shortened capstone from 8 weeks to 6 weeks
+- Focus shifted from predictive modeling to descriptive analysis and dashboard creation
 
 ### File Organization
 Each week follows this structure:
 ```
 Month_X/Week_Y/
 ├── Lecture/          # Multi-part instructor notebooks
-├── Practice/         # In-class guided exercises
+├── Practice/         # In-class guided exercises (may be empty)
 ├── Assignments/      # Student work (Minor: Wed, Major: Thu)
 └── Data/            # Week-specific datasets
 ```
@@ -27,28 +34,30 @@ Month_X/Week_Y/
 ## Key Utilities
 
 ### `Utilities/colab_helper.py`
-- `load_github_data(path)`: Load CSV files directly from repository
-- `setup_colab()`: Standard imports and display settings
-- Core function for Google Colab integration
+- `load_github_data(path)`: Load CSV files directly from GitHub repository
+- `setup_colab()`: Standard imports and display settings for Colab
+- `save_work()`: Remind students to save work to Google Drive
 
 ### `Utilities/olist_helper.py`
-- Dataset-specific helpers for Olist e-commerce data
-- `load_olist_data(table_name)`: Load specific data tables
-- `join_order_data()`: Pre-built business logic joins
+- `load_olist_data(table_name)`: Load specific Olist data tables with error handling
+- `join_order_data()`: Pre-built business logic joins for common analysis patterns
+- `calculate_delivery_time(orders_df)`: Calculate delivery metrics and late delivery flags
 
 ### `Utilities/visualization_helper.py`
-- `set_plotting_style()`: Consistent chart styling
-- Standard plotting functions for distributions and time series
+- `set_plotting_style()`: Consistent chart styling across all course materials
+- `plot_numeric_distribution()`: Standard distribution plots with summary statistics
+- `plot_categorical_distribution()`: Bar plots with customizable sorting and filtering
+- `plot_time_series()`: Time series visualization with resampling options
 
 ## Development Patterns
 
 ### Notebook Structure
-- **Lecture notebooks**: Split into parts (part1, part2, etc.)
-- **Assignment notebooks**: Empty code cells with markdown instructions
-- Heavy use of markdown for business context and explanations
-- SQL-to-Python translation emphasis throughout
+- **Lecture notebooks**: Multi-part structure (part1, part2, part3) for complex topics
+- **Assignment notebooks**: Empty code cells with detailed markdown instructions
+- **Business Context**: Heavy use of markdown for business context and real-world applications
+- **SQL Translation**: Consistent emphasis on SQL-to-Python translation throughout
 
-### Standard Imports
+### Standard Imports Pattern
 ```python
 import pandas as pd
 import numpy as np
@@ -62,70 +71,85 @@ from Utilities.colab_helper import load_github_data
 df = load_github_data('path/to/data.csv')
 ```
 
-## Platform Notes
-
-- **Designed for Google Colab only** - no local setup required
-- No package management files (requirements.txt, etc.)
-- All dependencies provided by Colab environment
-- Repository integrates directly with Colab via GitHub
-
-## Project Types
-
-Capstone projects fall into 5 categories:
-- Customer Satisfaction Analysis
-- Seller Performance Optimization
-- Supply Chain and Logistics Analysis  
-- Marketing Channel Effectiveness
-- Product Category Performance
-
-Each requires real business insights from Olist e-commerce dataset.
-
-## Content and Curriculum Development Guidelines
-
-### Python for Data Analysis Course
-
-#### Repository
-- GitHub Repository: "autom8or-com/python-data-analysis-course"
-- Access via GitHub MCP Server when asked
-
-#### Development Workflow
-- Always create a branch (`month_week_day`) unless otherwise stated
-- Do not edit on the main branch
-- Teaching Platform: Google Colab
-
-#### Content Creation Process
-1. For new weeks, infer structure from previous week
-2. Reference "Python for Data Analysis - 5-Month Curriculum.md"
-3. Break down content by sub-topics (e.g., 3 sub-topics per day)
-
-#### Weekly Folder Structure
-```
-Week_X/
-├── Lecture/    # Lecture content
-├── Assignment/ # Week's assignments
-└── Data/      # Datasets for lecture and assignment
+### Visualization Pattern
+```python
+from Utilities.visualization_helper import set_plotting_style, plot_numeric_distribution
+plt, sns = set_plotting_style()
+plot_numeric_distribution(df, 'column_name')
 ```
 
-#### Lecture File Naming
-- Wednesday: `01_<topic>_part<Number>_<subTopic>.ext`
-- Thursday: `02_<topic>_part<Number>_<subTopic>.ext`
+## Platform Requirements
 
-#### Data Resources
-- Brazilian E-Commerce Dataset: https://github.com/autom8or-com/python-data-analysis-course/blob/main/Resources/data/sales.zip
-- Marketing Funnel Dataset: https://github.com/autom8or-com/python-data-analysis-course/blob/main/Resources/data/marketing_funnel.zip
+- **Google Colab Only**: No local development setup required
+- **No Package Management**: All dependencies provided by Colab environment
+- **GitHub Integration**: Repository integrates directly with Colab via GitHub
+- **Streamlit Cloud**: For final project deployment
 
-#### Additional Notes
-- Students have intermediate SQL knowledge
-- When unsure, check `ReadMe.md` in working or parent directory
+## Project Structure
 
-## Database Configuration
+### Capstone Project Categories (Non-Predictive Focus)
+All projects emphasize descriptive analysis and business insights:
+1. **Customer Satisfaction Analysis** - Pattern analysis and satisfaction drivers
+2. **Seller Performance Optimization** - Performance metrics and benchmarking
+3. **Supply Chain and Logistics Analysis** - Delivery performance and bottleneck identification
+4. **Marketing Channel Effectiveness** - Channel performance and ROI analysis
+5. **Product Category Performance** - Sales trends and seasonal patterns
 
-### Supabase Database Access
-- Use the Supabase MCP server to access project databases
+### Project Deliverables
+- Interactive Streamlit web application (primary deliverable)
+- Technical documentation embedded in application
+- Live demonstration presentation
+- Deployed application accessible via URL
+
+## Database Integration
+
+### Supabase Configuration
+- Use Supabase MCP server for database access
 - Key schemas:
-  - "olist_sales_data_set": Primary sales dataset
-  - "olist_marketing_data_set": Marketing-related data
+  - `olist_sales_data_set`: Primary sales dataset
+  - `olist_marketing_data_set`: Marketing and funnel data
+- Real-time data integration with Streamlit applications
 
-## Security Best Practices
+## Content Development Guidelines
 
-- NEVER INCLUDE DATABASE CREDENTIALS IN AN TUTORIAL FILE. SAVE IN .ENV FILES. AND CALL IN OTHER FILES WHERE NEEDED.
+### Weekly Development Workflow
+1. Always create branches using format: `month_X_week_Y_topic`
+2. Never edit directly on main branch
+3. Reference existing week structures for consistency
+4. Break complex topics into 3-4 sub-topics per session
+
+### File Naming Conventions
+- **Wednesday lectures**: `01_<topic>_part<number>_<subtopic>.ipynb`
+- **Thursday lectures**: `02_<topic>_part<number>_<subtopic>.ipynb`
+- **Assignments**: `<day>_<type>_assignment_<topic>.ipynb`
+
+### Content Focus Areas
+- **Statistical Analysis**: Hypothesis testing, comparative analysis, regression (Week 8)
+- **Streamlit Development**: Interactive dashboards, deployment, user experience (Weeks 9-10)
+- **Business Applications**: Real-world e-commerce problems using Olist dataset
+- **SQL Translation**: Continuous emphasis on SQL-to-Python equivalencies
+
+## Security and Environment
+
+### Database Security
+- NEVER include database credentials in tutorial files
+- Use environment variables for sensitive information
+- Store credentials in .env files (excluded from repository)
+
+### Student Prerequisites
+- Intermediate SQL knowledge required
+- Google account for Colab access
+- Basic understanding of statistical concepts (by Week 8)
+
+## Assessment Structure
+
+### Weekly Assignments
+- **Minor Assignments**: Wednesday individual work (30% of grade)
+- **Major Assignments**: Thursday group projects (30% of grade)
+- **Capstone Project**: Final Streamlit application (40% of grade)
+
+### Grading Components
+- Technical implementation and code quality
+- Business insights and recommendations
+- Streamlit application functionality and user experience
+- Professional presentation and documentation

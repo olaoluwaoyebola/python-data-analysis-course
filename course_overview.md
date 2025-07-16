@@ -1,12 +1,12 @@
 # Python for Data Analysis
 
 ## Course Overview
-This 5-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 2-month capstone project.
+This 4-month course teaches Python for data analysis using the Olist Brazilian E-commerce database. Students will learn to manipulate, analyze, and visualize data through weekly lectures and assignments, culminating in a 6-week capstone project delivered as a deployed Streamlit web application.
 
 **Prerequisites:** Intermediate SQL knowledge
 
 ## Course Structure
-- **Duration:** 5 months (3 months instruction + 2 months project)
+- **Duration:** 4 months (2.5 months instruction + 1.5 months project)
 - **Schedule:** Wednesdays and Thursdays, 2 hours each day
 - **Start Date:** April 9th, 2025
 - **Platform:** Google Colab
@@ -21,10 +21,11 @@ By the end of this course, you will be able to:
 2. Translate SQL knowledge to equivalent Python operations
 3. Create insightful static and interactive data visualizations
 4. Apply statistical methods to derive insights from data
-5. Build predictive models for business applications
-6. Conduct end-to-end analysis projects from data acquisition to presentation
-7. Use Google Colab effectively for collaborative data science work
-8. Apply data analysis techniques to solve real-world e-commerce problems
+5. Build interactive web applications using Streamlit
+6. Deploy data analysis applications to the cloud
+7. Conduct end-to-end analysis projects from data acquisition to deployment
+8. Use Google Colab effectively for collaborative data science work
+9. Apply data analysis techniques to solve real-world e-commerce problems
 
 ## Course Content
 
@@ -64,29 +65,22 @@ By the end of this course, you will be able to:
 - **Wednesday:** Statistical Testing
 - **Thursday:** Regression Analysis
 
-### Month 3: Advanced Topics and Project Preparation
+### Month 3: Streamlit Development and Project Preparation
 
-#### Week 9: Machine Learning Fundamentals
-- **Wednesday:** Introduction to scikit-learn
-- **Thursday:** Classification Models
+#### Week 9: Streamlit Fundamentals and Dashboard Development
+- **Wednesday:** Streamlit Basics and Setup
+- **Thursday:** Advanced Streamlit and Interactivity
 
-#### Week 10: Clustering and Dimensionality Reduction
-- **Wednesday:** Unsupervised Learning
-- **Thursday:** Dimensionality Reduction
+#### Week 10: Capstone Project Packaging and Deployment
+- **Wednesday:** Project Integration and Polish
+- **Thursday:** Deployment and Presentation Preparation
 
-#### Week 11: Advanced E-commerce Analytics
-- **Wednesday:** Customer Lifetime Value
-- **Thursday:** Marketing Funnel Analysis
+### Month 4: Capstone Project (Jun 19 - Aug 7, 2025)
 
-#### Week 12: Project Preparation
-- **Wednesday:** Project Planning
-- **Thursday:** Project Design Review
-
-### Months 4-5: Capstone Project (Jul 2 - Aug 28, 2025)
-
-#### Week 13-20: Project Development and Delivery
-- **Wednesdays:** Technical workshops and project guidance sessions
+#### Week 11-16: Project Development and Delivery
+- **Wednesdays:** Technical workshops and Streamlit development sessions
 - **Thursdays:** Team working sessions with instructor support
+- **Final Deliverable:** Deployed Streamlit web application
 
 ## Assessment Structure
 - **Minor Assignments (30%):** Weekly individual assignments
@@ -94,42 +88,48 @@ By the end of this course, you will be able to:
 - **Final Project (40%):**
   - Project proposal (5%)
   - Progress milestones (10%)
-  - Final report (15%)
-  - Presentation (10%)
+  - Streamlit application (15%)
+  - Final presentation (10%)
 
 ## Resources
 - **Required:**
   - Python for Data Analysis by Wes McKinney
   - Olist Brazilian E-commerce Dataset Documentation
   - Google Colab Tutorials
+  - Streamlit Documentation and Tutorials
 
 - **Recommended:**
-  - Hands-On Machine Learning with Scikit-Learn by Aurélien Géron
   - Storytelling with Data by Cole Nussbaumer Knaflic
   - SQL to Python translation references
+  - Streamlit deployment guides
 
 ## Project Options
 1. **Customer Satisfaction Analysis**
-   - Predict review scores based on order attributes
-   - Identify factors contributing to negative reviews
-   - Recommend operational improvements
+   - Analyze customer review patterns and satisfaction drivers using statistical methods
+   - Identify factors contributing to negative reviews through comparative analysis
+   - Segment customers based on satisfaction levels and purchasing behavior
+   - Create interactive dashboard for monitoring customer satisfaction metrics
 
 2. **Seller Performance Optimization**
-   - Analyze seller metrics and performance
-   - Identify characteristics of top-performing sellers
-   - Create a seller scoring system
+   - Analyze seller metrics and performance patterns using statistical methods
+   - Identify characteristics of top-performing sellers through comparative analysis
+   - Create a comprehensive seller scoring system with multiple performance dimensions
+   - Build interactive seller performance monitoring dashboard
 
 3. **Supply Chain and Logistics Analysis**
-   - Analyze delivery performance across regions
-   - Predict delivery delays
-   - Recommend logistics improvements
+   - Analyze delivery performance across regions using statistical testing
+   - Identify delivery bottlenecks and inefficiencies through exploratory data analysis
+   - Evaluate logistics patterns and seasonal trends in delivery performance
+   - Create real-time logistics performance monitoring dashboard
 
 4. **Marketing Channel Effectiveness**
-   - Analyze which marketing channels produce the best sellers
-   - Evaluate conversion rates through the funnel
-   - Recommend optimal marketing investment
+   - Analyze marketing channel performance using statistical methods
+   - Evaluate conversion rates and funnel effectiveness across channels
+   - Compare channel performance across different segments and regions
+   - Build marketing performance tracking and optimization dashboard
 
 5. **Product Category Performance**
-   - Analyze sales trends across product categories
-   - Identify seasonal patterns
-   - Recommend inventory optimization strategies
+   - Analyze sales trends across product categories using time series analysis
+   - Identify seasonal patterns and market trends in product performance
+   - Evaluate category performance using statistical comparisons
+   - Develop product performance monitoring and business intelligence dashboard
