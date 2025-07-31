@@ -16,8 +16,8 @@ def load_olist_data(table_name):
         Loaded data table
     """
     import pandas as pd
-    from google.colab import files
     import io
+    import os
     
     # Map of table names to file names
     table_map = {
@@ -41,12 +41,9 @@ def load_olist_data(table_name):
         # First try to load from the Data folder
         return pd.read_csv(f'Data/{filename}')
     except FileNotFoundError:
-        # If not available, prompt the user to upload the file
-        print(f"Please upload the {filename} file")
-        uploaded = files.upload()
-        
-        # Read the uploaded file
-        return pd.read_csv(io.BytesIO(uploaded[filename]))
+        # If not available, raise an error with instructions
+        raise FileNotFoundError(f"The file {filename} was not found in the Data folder. "
+                              f"Please ensure the file exists in the correct location.")
 
 def join_order_data():
     """
